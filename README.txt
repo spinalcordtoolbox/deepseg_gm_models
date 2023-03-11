@@ -19,6 +19,9 @@ This folder contains the sct_deepseg_gm models:
 	injury, syringomyelia.
 	This dataset was created on 26 Nov 2017.
 
+The model was created using: https://github.com/spinalcordtoolbox/spinalcordtoolbox-dev/blob/master/dev/deepseg_gm/model.py#L50
+
+
 Changelog
 ===============================================================================
 
